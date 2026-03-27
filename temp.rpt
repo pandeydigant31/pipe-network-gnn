@@ -1,0 +1,44 @@
+  Page 1                                    Fri Mar 27 16:49:37 2026
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Fri Mar 27 16:49:37 2026
+
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 3 disconnected at 0:00:00 hrs
+  WARNING: Node 4 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 6 disconnected at 0:00:00 hrs
+  WARNING: Node 7 disconnected at 0:00:00 hrs
+  WARNING: Node 8 disconnected at 0:00:00 hrs
+  WARNING: Node 9 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: 9 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 80
+  WARNING: System disconnected because of Link 142
+  WARNING: System disconnected because of Link 143
+   
+  WARNING: Negative pressures at 1:00:00 hrs.
+  WARNING: Node 1 disconnected at 1:00:00 hrs
+  WARNING: Node 2 disconnected at 1:00:00 hrs
+  WARNING: Node 3 disconnected at 1:00:00 hrs
+  WARNING: Node 4 disconnected at 1:00:00 hrs
+  WARNING: Node 5 disconnected at 1:00:00 hrs
+  WARNING: Node 6 disconnected at 1:00:00 hrs
+  WARNING: Node 7 disconnected at 1:00:00 hrs
+  WARNING: Node 8 disconnected at 1:00:00 hrs
+  WARNING: Node 9 disconnected at 1:00:00 hrs
+  WARNING: Node 10 disconnected at 1:00:00 hrs
+  WARNING: 9 additional nodes disconnected at 1:00:00 hrs
+  WARNING: System disconnected because of Link 80
+  WARNING: System disconnected because of Link 142
+  WARNING: System disconnected because of Link 143
+   
+  Analysis ended Fri Mar 27 16:49:37 2026
